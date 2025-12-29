@@ -12,7 +12,7 @@
 
 [Тест-кейсы](https://github.com/l1fecoaching/QA-trainee-assignment-autumn-2025/blob/main/TESTCASES.md)
 
-[Баги]([BUGS.md](https://github.com/l1fecoaching/QA-trainee-assignment-autumn-2025/blob/main/BUGS.md)
+[Баги](https://github.com/l1fecoaching/QA-trainee-assignment-autumn-2025/blob/main/BUGS.md)
 
 ---
 #### Требования

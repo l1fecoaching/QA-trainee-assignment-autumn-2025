@@ -4,7 +4,7 @@
 
 **Задание 1**
 
-[Баги, наденные в задании]([TASK1.md](TASK1.md))
+[Баги, наденные в задании](https://github.com/l1fecoaching/QA-trainee-assignment-autumn-2025/blob/main/TASK1.md)
 
 ---
 

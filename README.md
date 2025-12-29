@@ -29,7 +29,7 @@ pip install pytest
 ```
 pip install requests
 ```
-**Запустить все автотесты командой**
+**Запустить все автотесты одной командой**
 ```
 pytest tests/test\_api.py
 ```

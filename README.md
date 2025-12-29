@@ -31,7 +31,7 @@ pip install requests
 ```
 **Запустить все автотесты одной командой**
 ```
-pytest tests/test\_api.py
+pytest tests/test_api.py
 ```
 **или конкретный автотест командой**
 ```

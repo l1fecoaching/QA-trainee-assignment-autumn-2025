@@ -1,4 +1,4 @@
-**ID: test\_valid\_item**
+### **ID: test\_valid\_item**
 
 **Заголовок:** Создание объявления с валидными данными
 
@@ -28,7 +28,7 @@
 
 ---
 
-**ID: test\_negative\_seller**
+### **ID: test\_negative\_seller**
 
 **Заголовок:** Создание объявления с отрицательным seller\_id
 
@@ -48,7 +48,7 @@
 
 ---
 
-**ID: test\_noname\_item**
+### **ID: test\_noname\_item**
 
 **Заголовок:** Создание объявления с пустым name
 
@@ -68,7 +68,7 @@
 
 ---
 
-**ID: test\_negative\_price**
+### **ID: test\_negative\_price**
 
 Заголовок: Создание объявления с отрицательным price
 
@@ -88,7 +88,7 @@
 
 ---
 
-**ID: test\_zero\_likes**
+### **ID: test\_zero\_likes**
 
 **Заголовок:** Создание объявления с likes \= 0
 
@@ -108,7 +108,7 @@
 
 ---
 
-**ID: test\_zero\_views**
+### **ID: test\_zero\_views**
 
 **Заголовок:** Создание объявления с viewCount \= 0
 
@@ -128,7 +128,7 @@
 
 ---
 
-**ID: test\_zero\_contacts**
+### **ID: test\_zero\_contacts**
 
 **Заголовок:** Создание объявления с contacts \= 0
 
@@ -148,7 +148,7 @@
 
 ---
 
-**ID: test\_negative\_likes**
+### **ID: test\_negative\_likes**
 
 **Заголовок:** Создание объявления с likes \< 0
 
@@ -168,7 +168,7 @@
 
 ---
 
-**ID: test\_negative\_views**
+### **ID: test\_negative\_views**
 
 **Заголовок:** Создание объявления с viewCount \< 0
 
@@ -188,7 +188,7 @@
 
 ---
 
-**ID: test\_negative\_contacts**
+### **ID: test\_negative\_contacts**
 
 **Заголовок:** Создание объявления с contacts \< 0
 
@@ -208,7 +208,7 @@
 
 ---
 
-**ID: test\_get\_item**
+### **ID: test\_get\_item**
 
 **Заголовок:** Получение объявления по идентификатору
 
@@ -225,7 +225,7 @@
 
 ---
 
-**ID: test\_get\_notexist\_item**
+### **ID: test\_get\_notexist\_item**
 
 **Заголовок:** Получение невалидного объявления по идентификатору
 
@@ -242,7 +242,7 @@
 
 ---
 
-**ID: test\_delete\_notexist\_item**
+### **ID: test\_delete\_notexist\_item**
 
 **Заголовок:** Удаление несуществующего объявления
 
@@ -259,7 +259,7 @@
 
 ---
 
-**ID: test\_delete\_item**
+### **ID: test\_delete\_item**
 
 **Заголовок:** Удаление существующего объявления
 
@@ -284,7 +284,7 @@
 
 ---
 
-**ID: test\_statistics**
+### **ID: test\_statistics**
 
 **Заголовок:** Получение статистики валидного объявления
 
@@ -303,7 +303,7 @@
 
 ---
 
-**ID: test\_notexist\_statistics**
+### **ID: test\_notexist\_statistics**
 
 **Заголовок:** Получение статистики несуществующего объявления
 
@@ -322,7 +322,7 @@
 
 ---
 
-**ID: test\_deleted\_item\_statistics**
+### **ID: test\_deleted\_item\_statistics**
 
 **Заголовок:** Получение статистики удалённого объявления
 

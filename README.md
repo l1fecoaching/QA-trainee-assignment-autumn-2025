@@ -10,7 +10,7 @@
 
 **Задание 2**
 
-[Тест-кейсы]([TESTCASES.md](https://github.com/l1fecoaching/QA-trainee-assignment-autumn-2025/blob/main/TESTCASES.md)
+[Тест-кейсы]((https://github.com/l1fecoaching/QA-trainee-assignment-autumn-2025/blob/main/TESTCASES.md)
 
 [Баги]([BUGS.md](BUGS.md))
 

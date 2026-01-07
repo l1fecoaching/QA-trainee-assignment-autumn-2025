@@ -33,6 +33,7 @@ HIGH
 **Шаги:**
 
 Отправить POST запрос на https://qa-internship.avito.com/api/1/item с телом: {"sellerID": 111321, "name": "Монитор ACER", "price": 1000, "statistics": {"likes": -1, "viewCount": 1, "contacts": 1}}  
+
 **ОР:**
 
 Объявление не создано, при создании айтема в ручке https://qa-internship.avito.com/api/1/item приходит ответ с ошибкой 400, в ручке https://qa-internship.avito.com/api/1/111321/item нет созданного айтема у селлера 
